@@ -37,7 +37,6 @@ HTML, CSS, JavaScript, Bootstrap, SASS, React and PHP
 Examples of projects, link to my portfolio: https://urhomwosa.github.io/portfolio/index.html
 
 
-
 ## WORK EXPERIENCES
 
 -   September 2021- present: sales consultant at labvine :
@@ -55,7 +54,7 @@ Modeling agency: xceptional only, @xceptionalonly
 (Owned and managed by me).
 
 
-## Skills and Interest
+## SKILLS AND INTEREST
 
 -   Project management
 -   Leadership skills: leader of my university group, project manager, planning, organizing etc.
@@ -63,7 +62,7 @@ Modeling agency: xceptional only, @xceptionalonly
 -   Catering
 
 
-##  Certificates
+##  CERTIFICATES
   
 1.  JavaScript Algorithms and Data Structures
 https://www.freecodecamp.org/certification/urhomwosa/javascript-algorithms-and-data-structures
@@ -71,7 +70,7 @@ https://www.freecodecamp.org/certification/urhomwosa/javascript-algorithms-and-d
 https://www.freecodecamp.org/certification/urhomwosa/responsive-web-design
 
 
-##  Code Example
+##  CODE EXAMPLE
 
     <?php
     require_once  __DIR__  .  '/../model/products.php';
@@ -88,6 +87,7 @@ https://www.freecodecamp.org/certification/urhomwosa/responsive-web-design
     $result = $products->selectAll();
     ?>
  
- 
+
+## CONTACTS
 [github](https://github.com/urhomwosa)
 [linkedin](https://www.linkedin.com/in/urhomwosa-igbinedion-426a2b214/)
