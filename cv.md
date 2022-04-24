@@ -1,6 +1,8 @@
 
 # IGBINEDION URHOMWOSA EGHOSA
 
+![IGBINEDION URHOMWOSA EGHOSA](https://media-exp1.licdn.com/dms/image/D4D35AQGOZlpGzY2Cnw/profile-framedphoto-shrink_200_200/0/1628695001965?e=2147483647&v=beta&t=zpM2px-G8spCkXTFK8UDAA6cAX3poZ-H6bXEaiIqvPo)
+
 Date of Birth: March 16, 1997
 
 Place of Residence: Grodno, Belarus
